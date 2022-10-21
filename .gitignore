@@ -1,0 +1,9 @@
+dist
+node_modules
+*.log
+**/*.tsbuildinfo
+
+package-lock.json
+local.settings.json
+app.config.js
+questionList.js
