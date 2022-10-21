@@ -8,7 +8,7 @@ This application can be used in Teams and outside of Teams. In Teams the applica
 
 If you add the application to teams it would look like this.
 
-[!QOTD](./images/QOTD.png)
+![Screenshot Question of the day](./images/QOTD.png)
 
 With the button you can go to next question of you do not like it, or go back to previous. You can go back to max 3 questions.
 
