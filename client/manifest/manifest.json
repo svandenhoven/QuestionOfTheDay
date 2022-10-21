@@ -26,7 +26,7 @@
     "accentColor": "#FFFFFF",
     "configurableTabs": [
         {
-            "configurationUrl": "https://15bf-94-214-69-210.ngrok.io/?view=config&inTeams=1&load=1",
+            "configurationUrl": "<your endpoint>",
             "canUpdateConfiguration": false,
             "scopes": [
                 "groupchat"
