@@ -3,7 +3,7 @@ node_modules
 *.log
 **/*.tsbuildinfo
 
+questionList.js
 package-lock.json
 local.settings.json
 app.config.js
-questionList.js
