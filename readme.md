@@ -1,6 +1,6 @@
 # ❓Questions of the day
 
-This application creates a Teams App where you can have a question of the day inside a meeting. This will give a question of the day to kickstart your meeting and to get everyone engaged. Fluid Framework is used to sync the question to all participants, so every participant sees the same question and when a next or previous question is chosen, this will be immediately synced with all participants
+This application creates a Teams App where you can have a question of the day inside a meeting that is visible for everyone. This will give a question of the day to kickstart your meeting and to get everyone engaged. Fluid Framework is used to sync the question to all participants, so every participant sees the same question and when a next or previous question is chosen, this will be immediately synced with all participants
 
 This application can be used in Teams and outside of Teams. In Teams the application will use LiveShare where the fluid framework service of Teams will be used. Outside Teams it will use your own Fluid Relay Service.
 
